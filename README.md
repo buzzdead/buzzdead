@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm buzzdead 👋
 
-<!--
-**buzzdead/buzzdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things with React + TypeScript, make games in Unity with C#, and enjoy shipping practical projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+- Full‑stack/front‑end developer focused on React and TypeScript.
+- Also work with React Native, C#, and have some Java experience.
+- I like small, focused projects, solid UX, and clean, maintainable code.
+
+---
+
+## 🔧 Skills & Tools
+- Languages: TypeScript, JavaScript, C#, Java, Python
+- Frameworks & Libraries: React, React Native, Next.js
+- Game Dev: Unity, C#
+- Dev tooling: Git, GitHub Actions, Docker, CI/CD, testing & linting
+
+---
+
+## ✨ Featured Projects
+- [Hypertrophy](https://github.com/buzzdead/Hypertrophy) — core project (link to repo)
+- [Portfolio](https://github.com/buzzdead/Portfolio) — personal site / projects showcase
+- [spacegame-main](https://github.com/buzzdead/spacegame-main) — game prototype
+
+---
+
+## What I’m currently working on
+- Developing a game in Unity using C# (private repo).
+- Building UIs and reusable components with React + TypeScript.
+
+---
+
+## 📫 Get in touch
+- GitHub: https://github.com/buzzdead
+- Email: your-email@example.com
+- Twitter / X: @yourhandle
+- Website: https://your-website.example
+
+(Replace placeholders with the actual email/links you want to show.)
+
+---
+
+## ⚡ Fun / Personal
+- Coffee addict ☕ · Open-source fan · Game dev enthusiast
+
+---
+
+## 📊 GitHub Stats
+![buzzdead's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzzdead&show_icons=true&theme=default)
