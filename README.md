@@ -34,16 +34,15 @@ I build things with React + TypeScript, make games in Unity with C#, and enjoy s
 
 ## 📫 Get in touch
 - GitHub: https://github.com/buzzdead
-- Email: your-email@example.com
-- Twitter / X: @yourhandle
-- Website: https://your-website.example
+- Email: sigmundvolden@gmail.com
+- Twitter / X: @BuzzMista
+- Website: https://sigmundvolden.no
 
-(Replace placeholders with the actual email/links you want to show.)
 
 ---
 
 ## ⚡ Fun / Personal
-- Coffee addict ☕ · Open-source fan · Game dev enthusiast
+- Gamer, game dev. Creating useful applications for myself!
 
 ---
 
