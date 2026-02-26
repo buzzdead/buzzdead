@@ -35,7 +35,6 @@ I build things with React + TypeScript, make games in Unity with C#, and enjoy s
 ## 📫 Get in touch
 - GitHub: https://github.com/buzzdead
 - Email: sigmundvolden@gmail.com
-- Twitter / X: @BuzzMista
 - Website: https://sigmundvolden.no
 
 
